@@ -14,9 +14,19 @@ body {
 .autor {
     font-size: 25px;
     font-style: italic;
-    margin-top: 0%;
+    margin-top: 0;
 }
 
 .contents {
     font-size: 20px;
+}
+
+.theme {
+    font-size: 15px;
+    margin: 45px 0 -10px 0;
+}
+
+.theme-description {
+    font-size: 15px;
+    margin: 0;
 }
